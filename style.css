@@ -99,7 +99,7 @@ background: none;
 }
 
 .home{
-    background:url(/img/644161b5ce15397473f2c4a49620ee8f.gif) no-repeat;
+    background:url(img/644161b5ce15397473f2c4a49620ee8f.gif) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -187,7 +187,7 @@ background: none;
 }
 
 .try{
-    background:url(/img/image_processing20201120-15530-vodl8x.gif) no-repeat;
+    background:url(img/image_processing20201120-15530-vodl8x.gif) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -502,7 +502,7 @@ background: none;
         font-size: 50%;
     }
     .home{
-        background: url("/img/644161b5ce15397473f2c4a49620ee8f.gif");
+        background: url("img/644161b5ce15397473f2c4a49620ee8f.gif");
         width: 200vw;
         height: 100vh;
         position: relative;
